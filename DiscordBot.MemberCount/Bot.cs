@@ -13,7 +13,7 @@ namespace DiscordBot.MemberCount
 {
     public class Bot
     {
-        private const string token = "MTAzOTE5NDQ1NjQ5NjI4MzY3OA.G-sZ-X.Fk2N9KCpkg00I3pSbAdZZitR0VRftZjUh1cuko";
+        private const string token = "bot-token";
         public static DiscordSocketClient _client;
         
         public Bot()
